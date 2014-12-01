@@ -1,0 +1,20 @@
+Package: trajcoert01
+Version: 0.1
+Title: coercion to trajectories object
+Authors@R: "First Last <first.last@example.com> [aut, cre]"
+Description: Coercion from Move, MoveStack and ltraj objects to trajectories
+    object.
+Depends:
+    R (>= 3.0.0),
+    methods
+Imports:
+    sp,
+    spacetime,
+    trajectories,
+    move,
+    adehabitatLT
+Suggests:
+    circular,
+    testthat
+License: GPL (>= 2)
+LazyData: true
