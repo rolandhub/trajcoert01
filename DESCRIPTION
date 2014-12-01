@@ -2,8 +2,8 @@ Package: trajcoert01
 Version: 0.1
 Title: coercion to trajectories object
 Authors@R: "First Last <first.last@example.com> [aut, cre]"
-Author: Roland Harhoff
-Maintainer: Roland Harhoff <rolandh@uni-muenster.de>
+Author: Roland H
+Maintainer: Roland H <roxxxxx@uni-muenster.de>
 Description: Coercion from Move, MoveStack and ltraj objects to trajectories
     object.
 Depends:
